@@ -4,5 +4,9 @@ Team members: Sukumar Ganesan, Aviral, Moukthika, Vedant
 
 Current files:
 * **project_eda.ipynb** contains the EDA done for the project
-* **xgboost_with_feature_set2.ipynb** Contains the code for training the XGBoost model with Feature set 2 (as described in the project report)
-* **requirements_for_project_eda_and xgboost_with_feature_set2.txt** contains the dependencies required to run the above 2 notebooks 
+* **model_selection_with_feature_set_1.ipynb** Contains the code for training the catboost, xgboost and lightgbm models on Feature set 1 (as described in the project report)
+* **model_selection_with_feature_set_2.ipynb** Contains the code for training the catboost, xgboost and lightgbm models on Feature set 2 (as described in the project report)
+* **model_selection_with_feature_set_3.ipynb** Contains the code for training the catboost, xgboost and lightgbm models on Feature set 3 (as described in the project report)
+* **onemap.ipynb** Contains the code to get additional auxiliary data like national parks, community clubs, libraries etc using onemap API.
+* **Data** The folder contains the dataset on which the EDA and the models are trained.
+* **requirements.txt** contains the dependencies required to run the notebooks.
